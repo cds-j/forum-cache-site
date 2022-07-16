@@ -1,8 +1,12 @@
-html,
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   padding: 0;
-  margin: 0;
-  background-color:maroon
+  margin: 50px;
+  background-color: blue;
 }
 
 a {
@@ -12,4 +16,10 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+@media only screen and (max-width: 500px) {
+  body {
+    margin: 20px;
+  }
 }

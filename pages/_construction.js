@@ -3,15 +3,20 @@ import Image from 'next/image';
 export default function Construction() {
     return (
         <div id="construction">
-            <Image src="/primary-logo-2022-(white).png" width="200px" height="200px" alt="Globe with 7 stars"/>
-            <div className='description'>
-                <Image src="/typographic-logo-01-(white).png" width="240px" height="40px" alt="Forum Cache handwritten" />
-                <p>
-                    &quot;blackness is fire... manmade and crackling, soot swallowing 
-                    <br/>native & neighbor like the sweetest taboo.&quot;
-                </p>
-                <p id="stars">★★★★★★★</p>
+            <div className="image-wrapper">
+                <Image class="image-logo" src="/primary-logo-2022-(white).png" width={200} height={200} alt="Globe with 7 stars"/>
             </div>
+            <div className="image-wrapper">
+                <Image class="image-typographic" src="/typographic-logo-01-(white).png" width={150} height={25} alt="Forum Cache handwritten" />
+            </div>
+            <p>
+                a work in progress.<br/>
+                feel free to get in contact with<br/>
+                <a href="https://cds-j.github.io">Corey D Sherrard Jr</a> about anything<br/>
+                that has to do with FORUM CACHE.<br/>
+                what is it?<br/>
+                we&lsquo;ll let you know real soon...
+            </p>
         </div>
     )
 }

@@ -1,23 +1,29 @@
 #construction {
     color: white;
     text-align: center;
-    margin: 200px auto;
+    margin: 150px auto;
 }
 
 #construction p {
-    font-family: Times, serif;
-    font-style: italic;
-    font-size: 14px;
-    font-weight: 600;
-    letter-spacing: -0.4pt;
-}
-
-#construction .description {
-    margin-top: 20px;
-}
-
-#construction #stars {
     font-family: monospace;
-    font-style: normal;
-    font-size: 25px;
+    font-size: 12px;
+    letter-spacing: -0.3pt;
+    padding: 40px;
 }
+
+#construction a {
+    text-decoration: underline;
+}
+
+#construction .image-wrapper {
+    padding: 10px;
+    max-width: 300px;
+    margin: 0px auto;
+}
+
+@media only screen and (max-width: 500px) {
+    #construction p {
+        font-size: 9px;
+    }
+}
+
