@@ -1,5 +1,5 @@
 import '../styles/globals.css'
-import '../styles/construction.css'
+import '../styles/videobroadcast.css'
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />

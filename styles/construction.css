@@ -4,13 +4,6 @@
     margin: 150px auto;
 }
 
-#construction p {
-    font-family: monospace;
-    font-size: 12px;
-    letter-spacing: -0.3pt;
-    padding: 40px;
-}
-
 #construction a {
     text-decoration: underline;
 }
