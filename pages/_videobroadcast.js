@@ -6,10 +6,7 @@ export default function VideoBroadcast() {
             <div id="logo-and-description">
                 <div id="logos">
                     <div className="image-wrapper">
-                        <Image class="image-logo" src="/primary-logo-2022-(white).png" width={100} height={100} alt="Globe with 7 stars"/>
-                    </div>
-                    <div className="image-wrapper">
-                        <Image class="image-typographic" src="/typographic-logo-01-(white).png" width={150} height={25} alt="Forum Cache handwritten" />
+                        <Image class="image-logo" src="/logo.png" width={100} height={100} alt="Globe with 7 stars"/>
                     </div>
                 </div>
                 <p>
