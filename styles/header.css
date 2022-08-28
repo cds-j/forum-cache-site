@@ -1,0 +1,40 @@
+#header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: -35px;
+}
+
+#header h1 {
+    transform: rotate(-90deg);
+    font-size: 19pt;
+}  
+
+#header-logo {
+    margin: 20px 20px 20px -20px;
+    padding: 5px 5px 0px 5px;
+    border: 2px dashed black;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#navigation {
+    visibility: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    margin: 2px;
+    padding: 4px;
+}
+
+li:hover {
+    cursor: pointer;
+    background-color: #222222;
+    color: #cccccc;
+}
