@@ -23,7 +23,7 @@ function Lander() {
             <p className="credit">
                 <i>
                     - Roy Haes, founder<br/>
-                    <a href="https://www.instagram.com/haesroy">@haesroy</a>
+                    <a href="https://www.instagram.com/royhaes">@haesroy</a>
                 </i>
             </p>
             <figure>
