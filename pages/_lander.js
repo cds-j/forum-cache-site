@@ -26,18 +26,11 @@ function Lander() {
                     <a href="https://www.instagram.com/royhaes">@royhaes</a>
                 </i>
             </p>
-            <figure>
-                <figcaption><p>Max Roach, <i>Effi</i></p></figcaption>
-                <audio controls src="/effi.mp3"></audio>
-            </figure>
-            <figure>
-                <figcaption><p>Sun Ra, <i>Enlightenment</i></p></figcaption>
-                <audio controls src="/enlightenment.mp3"></audio>
-            </figure>
-            <figure>
-                <figcaption><p>TUAMIE, <i>Eva-Re-Moanin&apos;</i></p></figcaption>
-                <audio controls src="/eva-re-moanin.mp3"></audio>
-            </figure>
+            <p className="credit">
+                <a href="https://ia903003.us.archive.org/27/items/Assata/assata%20shakur%20an%20biography.pdf" target="_blank" rel="noreferrer">💾 Assata Shakur, <i>Assata: An Autobiography</i></a><br/>
+                <a href="https://monoskop.org/images/6/6b/Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf" target="_blank" rel="noreferrer">💾 Frantz Fanon, <i>The Wretched Of The Earth</i></a><br/>
+                <a href="https://www.are.na/block/9495568" target="_blank" rel="noreferrer">💾 George Jackson, <i>Blood In My Eye</i></a><br/>
+            </p>
         </div>
     )
 }

@@ -11,6 +11,35 @@ a:hover {
     color: #777777;
 }
 
+.song {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 5px 0px;
+}
+
+.buttons {
+    margin-top: -10px;
+}
+
+button {
+    background-color: #cccccc;
+    color: #222222;
+    border: 0px;
+    font-size: 12pt;
+    padding: 3px;
+}
+
+button.play-button:hover {
+    cursor: pointer;
+    color: green;
+}
+
+button.stop-button:hover {
+    cursor: pointer;
+    color: red;
+}
+
 figure {
     display: flex;
     flex-direction: column;
@@ -19,4 +48,5 @@ figure {
 
 figcaption p {
     font-size: 8pt;
+    margin-right: 10px;
 }

@@ -23,6 +23,7 @@ h1 {
   font-size: 40pt;
   text-transform: uppercase;
   letter-spacing: -0.04em;
+  line-height: 0.75;
 }
 
 h2 {

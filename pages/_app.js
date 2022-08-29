@@ -1,6 +1,7 @@
 import '../styles/globals.css'
 import '../styles/header.css'
 import '../styles/lander.css'
+import '../styles/footer.css'
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
