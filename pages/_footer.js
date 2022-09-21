@@ -5,8 +5,8 @@ function Footer() {
                 <p>FORUM CACHE</p>
                 <p>
                     <b>
-                        Pressing + Publishing Black Arts<br/>
-                        for Black World propaganda.
+                        Deaf? Dumb? Blind?<br/>
+                        Black Art in a Black World. What up?
                     </b>
                 </p>
                 <p>for contact: forumcache.international@gmail.com</p>
