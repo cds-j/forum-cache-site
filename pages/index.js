@@ -2,8 +2,7 @@ import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
 import Header from './_header';
-import Lander from './_lander';
-import Footer from './_footer';
+import Front from './_front';
 
 export default function Home() {
   return (
@@ -16,10 +15,8 @@ export default function Home() {
         <link rel="stylesheet" href="https://use.typekit.net/hnm3zjg.css"></link>
         <link rel="stylesheet" href="https://use.typekit.net/hnm3zjg.css"></link>
       </Head>
-      
-      <Header />
-      <Lander />
-      <Footer />
+      <Header/>
+      <Front/>
     </div>
   )
 }

@@ -1,21 +1,18 @@
 import Image from 'next/image';
 
 function Header() {
-    return (
-        <div id="header">
-            <h1>Forum Cache</h1>
-            <div id="header-logo">
-                <Image src="/primary-logo-2022.png" width={75} height={75} alt="World with seven stars in the middle" />
-            </div>
-            <nav>
-                <ul id="navigation">
-                    <li>issue[s]</li>
-                    <li>links</li>
-                    <li>about</li>
-                </ul>
-            </nav>
-        </div>
-    )
+  return (
+    <header>
+      <div id="logo">
+        <Image src="/primary-logo-2022.png" width={100} height={100} alt="World with seven stars in the middle" />
+      </div>
+      <p>
+        <b><i>forum cache</i></b> is an <i>ongoing experiment</i> seeking to utilize specialized, multidisciplinary, 
+        and interdisciplinary art practices to document the times, express ourselves in the present, design the future,
+        and engineer the answers to world crises.
+      </p>
+    </header>
+  )
 }
 
 export default Header;
