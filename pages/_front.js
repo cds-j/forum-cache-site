@@ -17,10 +17,10 @@ function Front() {
         <p>
           <i>We are actively building an online space, and are inquiring about an in-person space
           in <b>Houston, Texas</b> for contributors to add onto the first issue (maybe something like <a
-          href="https://github.com" target="_blank" rel="noreferrer">GitHub</a> or a residency program?) At the moment, 
+          href="https://github.com" target="_blank" rel="noreferrer">github</a> or a residency program?) At the moment, 
           if you would like to help with something like this, please feel free to email cdsherrardjr@gmail.com or
           dm <a href="https://instagram.com/cds__j" target="_blank" rel="noreferrer">@cds__j</a> on 
-          Instagram. <b>Your honest input will not be ignored.</b></i>
+          Instagram. <b>Your honest input will never be ignored.</b></i>
         </p>
         <p>
           The physical issue is currently being designed in <a href="https://figma.com" target="_blank" rel="noreferrer">Figma</a>.
