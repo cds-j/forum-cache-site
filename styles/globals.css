@@ -32,7 +32,6 @@ h3 {
 }
 
 p, li {
-  color: #222222;
   font-family: "Times New Roman", serif;
   text-transform: lowercase;
   font-size: 14pt;
@@ -40,13 +39,33 @@ p, li {
 }
 
 a {
+  font-family: "Helvetica", sans-serif;
+  font-size: 12pt;
+  font-weight: 900;
   text-decoration: underline;
-  color: #427545;
+  color: black;
+}
+
+a:hover {
+  color: gray;
 }
 
 #front {
   margin: 100px 0px;
+}
+
+#reserve-block {
   max-width: 600px;
+}
+
+#forum-cache-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  border-radius: 10px;
+  margin: 100px auto;
+  max-width: 500px;
 }
 
 .paragraph-block {
@@ -73,5 +92,10 @@ a {
 
   h3 {
     font-size: 16pt;
+  }
+
+  #forum-cache-block {
+    flex-direction: column;
+    justify-content: flex-end;
   }
 }

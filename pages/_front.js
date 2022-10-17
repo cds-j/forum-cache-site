@@ -1,6 +1,8 @@
-function Front() {
+import Image from "next/image";
+
+function Reserve() {
   return (
-    <div id="front">
+    <div id="reserve-block">
       <p>currently in production...</p>
       <h1>reserve®</h1>
       <h2>jazz/art/political publication</h2>
@@ -16,16 +18,51 @@ function Front() {
         </p>
         <p>
           <i>We are actively building an online space, and are inquiring about an in-person space
-          in <b>Houston, Texas</b> for contributors to add onto the first issue (maybe something like <a
-          href="https://github.com" target="_blank" rel="noreferrer">github</a> or a residency program?) At the moment, 
+          in <b>Houston, Texas</b> for contributors to add onto the first issue (maybe something like </i><a
+          href="https://github.com" target="_blank" rel="noreferrer">github</a><i> or a residency program?) At the moment, 
           if you would like to help with something like this, please feel free to email cdsherrardjr@gmail.com or
-          dm <a href="https://instagram.com/cds__j" target="_blank" rel="noreferrer">@cds__j</a> on 
+          dm </i><a href="https://instagram.com/cds__j" target="_blank" rel="noreferrer">@cds__j</a><i> on 
           Instagram. <b>Your honest input will never be ignored.</b></i>
         </p>
         <p>
           The physical issue is currently being designed in <a href="https://figma.com" target="_blank" rel="noreferrer">Figma</a>.
         </p>
       </div>
+    </div>
+  )
+}
+
+function ForumCache() {
+  return (
+    <div id="forum-cache-block">
+      <div>
+        <Image src="/primary-logo-2022.png" width={250} height={250} alt="World with seven stars inside" />
+      </div>
+      <div id="forum-cache-block-text">
+        <h1>forum cache</h1>
+        <h2>learning/creating in public at all times.</h2>
+        <div className="paragraph-block">
+          <p>
+            Inspired by the Black Arts Movement, <a href="https://garden3d.net" target="_blank" rel="noreferrer">garden3d</a>
+            , <a href="https://leavingrecords.com" target="_blank" rel="noreferrer">Leaving Records</a>
+            , <a href="https://sfpc.io" target="_blank" rel="noreferrer">SFPC (School for Poetic Computation)</a>
+            , <a href="https://cprnyc.org" target="_blank" rel="noreferrer">Center for Performance Research</a>
+            , <a href="https://cassandrapress.org/" target="_blank" rel="noreferrer">Cassandra Press</a>
+            , <a href="https://www.e-flux.com/" target="_blank" rel="noreferrer">e-flux</a>
+            , <a href="https://www.media.mit.edu/" target="_blank" rel="noreferrer">MIT Media Lab</a>,  
+            and <a href="https://www.newinc.org/" target="_blank" rel="noreferrer">NEW INC</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+function Front() {
+  return (
+    <div id="front">
+      <Reserve/>
+      <ForumCache/>
     </div>
   )
 }
