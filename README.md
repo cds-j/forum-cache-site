@@ -1,34 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# forum cache®
 
-## Getting Started
+**_forum cache_** is an _ongoing experiment_ seeking to utilize specialized, multidisciplinary, and interdisciplinary art practices to document the times, express ourselves in the present, design the future, and engineer the answers to world crises.
 
-First, run the development server:
+Learning in public is an integral part of communal problem solving. Even though my experience with teams seeking to confront these objectives are minimal at best, I believe many engineers and creatives are seeking to contribute just as much as I am. **_forum cache_** as an entity isn't the priority, it's just a title for the vehicle. So, for now, I'll share how the site is built and its expected direction as a functioning go-to for **fill in the blank*.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Stack
+ - HTML
+ - CSS
+ - JavaScript
+ - React
+ - Next.js
+ - Vercel
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## reserve®
+As an ongoing experiment, the next step is always up for redetermination. 
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Today, **reserve®**, a jazz/art/political publication, is in production to be an online/printed source for contemporary jazz examined as art and/or a vehicle for propaganda. 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+For the foreseeable future, **_forum cache_** will engage in printing and publishing black literature and art books and pressing limited runs of select records for musicians/artists on an international scale.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feel free to contact me about any of this at cdsherrardjr@gmail.com on Instagram at www.instagram.com/cds__j.
