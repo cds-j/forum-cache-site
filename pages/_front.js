@@ -17,12 +17,12 @@ function Reserve() {
           documentation and political education.
         </p>
         <p>
-          <i>We are actively building an online space, and are inquiring about an in-person space
-          in <b>Houston, Texas</b> for contributors to add onto the first issue (maybe something like </i><a
-          href="https://github.com" target="_blank" rel="noreferrer">github</a><i> or a residency program?) At the moment, 
+          We are actively building an online space, and are inquiring about an in-person space
+          in Houston, Texas for contributors to add onto the first issue (maybe something like <a
+          href="https://github.com" target="_blank" rel="noreferrer">github</a>) At the moment, 
           if you would like to help with something like this, please feel free to email cdsherrardjr@gmail.com or
-          dm </i><a href="https://instagram.com/cds__j" target="_blank" rel="noreferrer">@cds__j</a><i> on 
-          Instagram. <b>Your honest input will never be ignored.</b></i>
+          dm <a href="https://instagram.com/cds__j" target="_blank" rel="noreferrer">@cds__j</a> on 
+          Instagram.
         </p>
         <p>
           The physical issue is currently being designed in <a href="https://figma.com" target="_blank" rel="noreferrer">Figma</a>.
