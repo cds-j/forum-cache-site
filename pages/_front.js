@@ -40,17 +40,12 @@ function ForumCache() {
       </div>
       <div id="forum-cache-block-text">
         <h1>forum cache</h1>
-        <h2>learning/creating in public at all times.</h2>
+        <h2>learning/creating in public</h2>
         <div className="paragraph-block">
           <p>
-            Inspired by the Black Arts Movement, <a href="https://garden3d.net" target="_blank" rel="noreferrer">garden3d</a>
-            , <a href="https://leavingrecords.com" target="_blank" rel="noreferrer">Leaving Records</a>
-            , <a href="https://sfpc.io" target="_blank" rel="noreferrer">SFPC (School for Poetic Computation)</a>
-            , <a href="https://cprnyc.org" target="_blank" rel="noreferrer">Center for Performance Research</a>
-            , <a href="https://cassandrapress.org/" target="_blank" rel="noreferrer">Cassandra Press</a>
-            , <a href="https://www.e-flux.com/" target="_blank" rel="noreferrer">e-flux</a>
-            , <a href="https://www.media.mit.edu/" target="_blank" rel="noreferrer">MIT Media Lab</a>,  
-            and <a href="https://www.newinc.org/" target="_blank" rel="noreferrer">NEW INC</a>.
+            The desire to live beyond the capital required by the 0.01% to survive in their world
+            only makes us human. There&apos;s no version of this present dystopia that will give us that, so it 
+            is up to us to fight, build, draft, grow, execute, commune, and manifest liberation.
           </p>
         </div>
       </div>
